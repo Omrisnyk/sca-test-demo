@@ -21,7 +21,7 @@
         <jcl-over-slf4j.version>1.7.5</jcl-over-slf4j.version>
         <fastjson.version>[1.2.31,)</fastjson.version>
         <nacos.client.version>0.4.0</nacos.client.version>
-        <sca.nacos.discovery.version>0.1.1.BUILD-SNAPSHOT</sca.nacos.discovery.version>
+        <sca.nacos.discovery.version>0.2.0.RELEASE</sca.nacos.discovery.version>
         <spring.cloud.alicloud.context.version>0.2.1.BUILD-SNAPSHOT</spring.cloud.alicloud.context.version>
     </properties>
 
